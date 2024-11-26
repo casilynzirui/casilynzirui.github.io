@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.57989b9f.css",
+    "main.css": "/static/css/main.a4ba3320.css",
     "main.js": "/static/js/main.084e6c85.js",
     "static/js/453.31fc671c.chunk.js": "/static/js/453.31fc671c.chunk.js",
     "static/media/mochicat.png": "/static/media/mochicat.c75377f64b52e7174e8e.png",
@@ -17,12 +17,12 @@
     "static/media/school.svg": "/static/media/school.a51924a5838705f741ea903963d51311.svg",
     "static/media/work.svg": "/static/media/work.61db91d64ba0bd93c678dd78e9a157c5.svg",
     "index.html": "/index.html",
-    "main.57989b9f.css.map": "/static/css/main.57989b9f.css.map",
+    "main.a4ba3320.css.map": "/static/css/main.a4ba3320.css.map",
     "main.084e6c85.js.map": "/static/js/main.084e6c85.js.map",
     "453.31fc671c.chunk.js.map": "/static/js/453.31fc671c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.57989b9f.css",
+    "static/css/main.a4ba3320.css",
     "static/js/main.084e6c85.js"
   ]
 }
