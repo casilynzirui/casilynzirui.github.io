@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a4ba3320.css",
+    "main.js": "/static/js/main.e949ee07.js",
+    "static/js/453.31fc671c.chunk.js": "/static/js/453.31fc671c.chunk.js",
+    "static/media/mochicat.png": "/static/media/mochicat.c75377f64b52e7174e8e.png",
+    "static/media/ylite-showcase.png": "/static/media/ylite-showcase.ce60256bf8c7de16d84d.png",
+    "static/media/unity.png": "/static/media/unity.b196c776e313b0a0c14f.png",
+    "static/media/favepay-showcase.png": "/static/media/favepay-showcase.9c4e18da834427b988f9.png",
+    "static/media/me.jpg": "/static/media/me.71258a7af16ea544446a.jpg",
+    "static/media/placeholder.jpg": "/static/media/placeholder.e2f89e90ce64a95d2ace.jpg",
+    "static/media/threejs.png": "/static/media/threejs.192edb8bb13191969a87.png",
+    "static/media/uol.png": "/static/media/uol.09cd67ef16b151401805.png",
+    "static/media/github.png": "/static/media/github.0a343d308fe9650557b8.png",
+    "static/media/heicoders.png": "/static/media/heicoders.c148c66b8cc5da6eee3e.png",
+    "static/media/linkedin.png": "/static/media/linkedin.c7fcbb61ba76ddad47c2.png",
+    "static/media/school.svg": "/static/media/school.a51924a5838705f741ea903963d51311.svg",
+    "static/media/work.svg": "/static/media/work.61db91d64ba0bd93c678dd78e9a157c5.svg",
+    "index.html": "/index.html",
+    "main.a4ba3320.css.map": "/static/css/main.a4ba3320.css.map",
+    "main.e949ee07.js.map": "/static/js/main.e949ee07.js.map",
+    "453.31fc671c.chunk.js.map": "/static/js/453.31fc671c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4ba3320.css",
+    "static/js/main.e949ee07.js"
+  ]
+}
